@@ -4,9 +4,6 @@
 ![Screenshot from 2025-05-08 14-16-34](https://github.com/user-attachments/assets/c0f2407f-4d94-4ed5-b712-84090bece48b)
 
 
-
-![Screenshot from 2025-05-08 14-16-22](https://github.com/user-attachments/assets/6957bc5b-e9d2-447e-bd9c-e552af9a2a59)
-
 ## Product Listing API Integration
 
 This document explains how the product listing feature works in the Kisan Mitra application.
