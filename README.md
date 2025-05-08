@@ -1,11 +1,20 @@
 # Kisan_Mitra
 B2C Marketplace for farmers 
+![Screenshot from 2025-05-08 14-16-22](https://github.com/user-attachments/assets/6c7c2e45-589a-468d-b306-90959330a0d8)
+![Screenshot from 2025-05-08 14-16-34](https://github.com/user-attachments/assets/c0f2407f-4d94-4ed5-b712-84090bece48b)
 
 # Kisan Mitra - Farmer Marketplace Platform
+
+
+![Screenshot from 2025-05-08 14-16-22](https://github.com/user-attachments/assets/6957bc5b-e9d2-447e-bd9c-e552af9a2a59)
 
 ## Product Listing API Integration
 
 This document explains how the product listing feature works in the Kisan Mitra application.
+
+![Screenshot from 2025-05-08 14-18-28](https://github.com/user-attachments/assets/cc6cdb7e-ae10-446f-8e8a-04a5ab5bd074)
+![Screenshot from 2025-05-08 14-18-14](https://github.com/user-attachments/assets/1e3dcc26-3743-433c-8b35-5217c1e56faa)
+
 
 ### Backend Setup
 
@@ -62,6 +71,7 @@ This document explains how the product listing feature works in the Kisan Mitra 
    ```
 
 ### Frontend Integration
+![Screenshot from 2025-05-08 14-18-38](https://github.com/user-attachments/assets/5642aa07-ee48-4716-9bdd-d687d08ba9b0)
 
 1. **Modal Form**: The marketplace has a "List New Product" button that opens a modal with a form containing:
 
@@ -107,9 +117,3 @@ This document explains how the product listing feature works in the Kisan Mitra 
 
 3. Access the application at `http://localhost:5173`
 
-### Future Improvements
-
-1. Add user authentication to associate products with real users
-2. Add image upload functionality for product images
-3. Implement filtering and searching for products
-4. Add edit and delete functionality for product listings
