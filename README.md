@@ -1,9 +1,8 @@
-# Kisan_Mitra
-B2C Marketplace for farmers 
+# Kisan Mitra - Farmer Marketplace Platform
+
 ![Screenshot from 2025-05-08 14-16-22](https://github.com/user-attachments/assets/6c7c2e45-589a-468d-b306-90959330a0d8)
 ![Screenshot from 2025-05-08 14-16-34](https://github.com/user-attachments/assets/c0f2407f-4d94-4ed5-b712-84090bece48b)
 
-# Kisan Mitra - Farmer Marketplace Platform
 
 
 ![Screenshot from 2025-05-08 14-16-22](https://github.com/user-attachments/assets/6957bc5b-e9d2-447e-bd9c-e552af9a2a59)
